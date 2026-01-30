@@ -1,2 +1,2 @@
-# whisper-full-build
-.github-whisper-full-build.yml
+whisper-full-build
+ithub-whisper-full-build.yml
